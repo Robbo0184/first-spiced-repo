@@ -14,6 +14,6 @@ Hi guys.
 3. Third Item
 
 ## Unordered List
-+ John
-* Paul
-* George
+- John
+- Paul
+- George
